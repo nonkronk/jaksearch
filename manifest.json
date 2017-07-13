@@ -1,0 +1,19 @@
+{
+  "name": "JakSearch",
+  "description": "Search selected text at www.jakmall.com",
+  "version": "0.0.1",
+  "permissions": ["contextMenus"],
+  "background": {
+    "persistent": false,
+    "scripts": ["js/background.js"]
+  },
+  "manifest_version": 2,
+  "icons": {
+    "16": "img/icon16.png",
+	"48": "img/icon48.png",
+	"128" : "img/icon128.png"
+  },  
+  "browser_action": {
+    "default_icon": "img/icon128.png"
+  }
+}
