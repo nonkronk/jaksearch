@@ -13,7 +13,7 @@ http://developer.chrome.com/extensions/getstarted.html#unpacked
 
 ## How to Use
 #### Search Terms
-Select the text you want to check, right-click on it, and click on "Cari di Jakmall" button. A new tab will be open with the search result.
+Select the text you want to check, right-click on it, and click on "Cari di Jakmall" button. A new tab will be open with the search results.
 
 ## License
 MIT licensed. See [LICENSE](LICENSE) for detail
