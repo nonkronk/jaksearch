@@ -1,5 +1,5 @@
 # JakSearch
-JakSearch is chrome extensions to search selected text at www.jakmall.com, adding right-click search button (Cari di Jakmall) on Chrome browser.
+JakSearch is chrome extensions to search selected text into www.jakmall.com, adding right-click search button (Cari di Jakmall) on Chrome browser.
 
 ![Screenshot](https://github.com/nonkronk/jaksearch/raw/master/img/ss.png)
 
